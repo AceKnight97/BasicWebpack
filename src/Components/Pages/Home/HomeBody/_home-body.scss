@@ -1,0 +1,12 @@
+.home-body {
+  padding: 3rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 0.125rem;
+
+  &-toper {
+    display: flex;
+    justify-content: space-between;
+  }
+}
